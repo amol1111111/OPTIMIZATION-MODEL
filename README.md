@@ -63,5 +63,4 @@ This project illustrates a practical application of linear programming in the fi
 Overall, the project reflects strong foundational knowledge in optimization, data structuring, and Python-based implementation using PuLP.
 
 # Output
-
-
+https://github.com/user-attachments/assets/ee309527-fdf1-4c13-a175-735df0ea519f
